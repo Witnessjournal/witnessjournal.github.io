@@ -19,6 +19,8 @@ website:
         href: direttivo.qmd
       - text: "{{< bi geo >}} Territori"
         href: territori.qmd
+      - text: "{{< bi hammer >}} Strumenti"
+        href: tools.qmd
       - text: "{{< bi bar-chart >}} Situazione Soci"
         href: situazione_soci.qmd
       - text: "{{< bi graph-up >}} Storico"

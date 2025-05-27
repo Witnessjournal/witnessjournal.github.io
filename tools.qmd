@@ -1,0 +1,41 @@
+---
+title: "{{< bi hammer >}} Strumenti"
+date: today
+format: html
+---
+
+I soci di Witness Journal APS hanno accesso a diversi strumenti e risorse per supportare le loro attività. Di seguito sono elencati gli strumenti principali e le modalità per accedervi.
+
+# Google Workspace
+:::{.column-margin}
+{{< bi envelope-fill >}} Team di supporto:<br/>
+<supporto@witnessjournal.com>
+
+---
+
+{{< bi instagram >}} Instagram: <br/>
+[@witnessjournal](https://www.instagram.com/witnessjournal)
+
+---
+:::
+
+I soci di Witness Journal APS hanno diritto ad un account [Google Workspace](https://www.google.com) con le seguenti caratteristiche:
+
+* email <nome.cognome@witnessjournal.com>
+* spazio di archiviazione
+* accesso a Google Drive, Docs, Sheets, Calendar, Meet e altri servizi
+* accesso a [Google Gemini](https://gemini.google.com) e [NotebookML](https://notebooklm.google.com)
+
+Per ottenere l'accesso, contattate il vostro referente territoriale o il team di supporto.
+
+# Slack
+
+I soci di Witness Journal APS hanno diritto ad un account [Slack](https://slack.com) per comunicare e collaborare con gli altri soci. Per ottenere un invito all'account Slack, contattate il vostro referente territoriale o il team di supporto per ottenere un link di invito, dopodiché create un nuovo account utilizzando il vostro indirizzo email @witnessjournal.com.
+
+# Canva
+
+I soci di Witness Journal APS hanno diritto ad un account [Canva Pro](https://canva.com) per creare grafiche e contenuti visivi. Per ottenere l'accesso, create un nuovo account Canva utilizzando il vostro indirizzo email @witnessjournal.com.
+
+# Affinity
+
+Una volta creato l'account Canva Pro, potete scaricare la suite [Affinity](https://affinity.serif.com) (Designer, Photo e Publisher) per creare grafiche, foto e documenti, collegando il vostro account Canva Pro. Per ulteriori informazioni, contattate il vostro referente territoriale o il team di supporto.
