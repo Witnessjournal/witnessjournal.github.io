@@ -1,0 +1,42 @@
+---
+title: "_tools"
+format: html
+---
+
+```{r setup}
+#| include: false
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE,
+	fig.width = 6,
+  fig.height = 3,
+  fig.align = "center",
+  out.width = "100%",
+  dpi = 300
+)
+library(tidyverse)
+library(stringr)
+library(tmap)
+library(sf)
+library(glue)
+source("wj_utils.R")
+
+```
+
+```{r}
+soci <- wj_data(wj_tokens()) %>% wj_soci()
+N <- nrow(soci)
+```
+
+```{r}
+soci %>% 
+  filter(!deve_rinnovare) %>% 
+  select(cognome, nome, codice_fiscale, data_iscrizione) %>% 
+  mutate(
+    data_iscrizione = ymd(data_iscrizione)
+  ) %>%
+  arrange(desc(data_iscrizione)) %>%
+  filter(data_iscrizione < ymd("2025-04-28")) 
+```
+

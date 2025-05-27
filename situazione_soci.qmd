@@ -26,10 +26,6 @@ library(glue)
 source("wj_utils.R")
 ```
 
-:::{.callout-warning}
-Pagina in costruzione.
-:::
-
 
 ## Sorgente dati
 

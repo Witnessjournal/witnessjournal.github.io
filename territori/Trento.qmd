@@ -6,6 +6,8 @@ date-modified: today
 format: html
 image: https://photos.smugmug.com/Cronache/Trans-March-Teo/i-QDdFLbd/0/MBTTffhGRKpWZnPBrRdvnWfdPGV8BCjZs3VB9Jz5K/X3/DSCF9359-155-X3.jpg
 lightbox: true
+abstract: |
+  Gruppo dei soci WJ di Trento e del Trentino-Alto Adige.
 params:
   provincia: "TN"
 ---

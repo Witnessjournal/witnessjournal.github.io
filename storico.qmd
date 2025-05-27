@@ -26,10 +26,6 @@ source("wj_utils.R")
 ```
 
 
-:::{.callout-warning}
-Pagina in costruzione.
-:::
-
 ## Sorgente dati
 
 
@@ -105,7 +101,7 @@ storico <- storico %>%
 
 ## Crescita storica dei soci
 
-Questo grafico riporta la crescita storica dei soci afferenti complessivi e afferenti ai gruppi territoriali più numerosi (con più di sei soci). Il grafico **è interattivo**.
+Questo grafico riporta la crescita storica dei soci afferenti complessivi e afferenti ai gruppi territoriali più numerosi (con più di sei soci). 
 
 ```{r}
 storico %>% 

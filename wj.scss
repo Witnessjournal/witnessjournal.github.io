@@ -75,6 +75,33 @@ figcaption {
   font-style: italic;
 }
 
+.quarto-margin-footer {
+  position: absolute;
+  bottom: 0;
+  font-size: 75%;
+  font-style: italic;
+  color: #666;
+}
+
+.quarto-margin-footer ul {
+  list-style-type: none;
+  list-style-position: inside;
+  text-indent: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.quarto-margin-footer a {
+  color: #444;
+  text-decoration: none;
+}
+
+.quarto-margin-footer a:hover {
+  color: $wj-red;
+  text-decoration: underline;
+}
+
+
 div.abstract {
   font-style: italic;
 }
@@ -111,3 +138,39 @@ div.abstract {
   color: $link-hover-color;
   border-color: $link-hover-color;
 }
+
+.wj-odd, .wj-even hr {
+  clear: both;
+}
+.wj-details {
+  font-size: 0.75rem;
+  color: #666;
+  clear: both;
+  font-style: italic;
+  text-align: left;
+}
+.wj-odd {
+  text-align: right;
+}
+.wj-odd img {
+  float: right;
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.wj-odd h3 {
+  clear: both;
+  text-align: left;
+  border: none;
+}
+
+.wj-even {
+  text-align: left;
+}
+.wj-even img {
+  float: left;
+  width: 200px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+

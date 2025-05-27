@@ -13,6 +13,10 @@ listing:
   filter-ui: true
 ---
 
+:::{.callout-warning}
+Questa pagina è in costruzione!
+:::
+
 # {{<bi info-circle>}} Cosa sono
 
 L'associazione WitnessJournal è fatta da socie e soci distribuiti su [quasi tutto il paese](/situazione_soci.html#distribuzione-per-genere). In alcune città e province i soci si riuniscono in **gruppi territoriali**, collaborando a progetti fotografici e attività in genere legate alla missione dell'associazione. 

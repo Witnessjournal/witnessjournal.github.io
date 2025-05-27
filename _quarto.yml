@@ -6,11 +6,18 @@ project:
   resources:
     - "CNAME"
 website:
-  title: "Informazioni su WJ"
+  title: "Witness Journal APS"
   site-url: "https://soci.witnessjournal.com"
   description: "Dati sull'Associazione WJ"
+  margin-footer: |
+    - Copyright 2020
+    - APS Witness Journal
+    - CF: 97739350151 
+    - PEC: <witnessjournal@pec.it>
   navbar:
     left:
+      - text: "{{< bi people >}} Direttivo"
+        href: direttivo.qmd
       - text: "{{< bi geo >}} Territori"
         href: territori.qmd
       - text: "{{< bi bar-chart >}} Situazione Soci"

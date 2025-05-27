@@ -3,11 +3,25 @@ title: "{{< bi info-circle >}} Informazioni sull'Associazione"
 format: html
 ---
 
-Queste pagine contengono alcune analisi sull'associazione [Witness Journal](https://witnessjournal.org/), in particolare sui gruppi territoriali e sulle statistiche di base riguardanti i soci e le socie. I dati sono stati raccolti in modo anonimo e non contengono informazioni identificative.
+![](https://witnessjournal.com/wp-content/uploads/2015/12/gdm_photos_054.jpg)
+
+# La nostra storia
+
+La storia della nostra associazione, che è nata formalmente nel 2016, comincia in realtà nel 2007, ossia quando viene fondato Witness Journal, primo mensile di fotogiornalismo online in Italia, basato su una piattaforma aperta al contributo di chiunque avesse la voglia e la capacità di raccontare storie attraverso le immagini. Nel corso degli anni, nonostante la crisi editoriale prima e quella economica poi, la redazione si è estesa fino a formare il gruppo che nel 2015 ha deciso di ampliare il progetto originale trasformandolo in un'associazione di promozione sociale (APS).
+
+Siamo un gruppo di persone che si occupano a vario titolo di fotografia e giornalismo con l'obiettivo di promuovere la diffusione della cultura e dell'informazione sia di carattere locale che globale. Il nostro impegno si declina sostanzialmente su tre fronti precisi:
+
+* le attività editoriali
+* la formazione in ambito fotogiornalistico
+* la promozione di progetti integrati
+
+# Per i soci
+
+Queste pagine contengono alcune informazioni utili per le socie e i soci di Witness Journal APS. 
 
 ## {{<bi geo >}} Gruppi territoriali
 
-La pagina [Gruppi territoriali](gruppi_territoriali.qmd) contiene una directory dei gruppi territoriali WJ attivi, con informazioni di contatto.
+La pagina [Gruppi territoriali](territori.qmd) contiene una directory dei gruppi territoriali WJ attivi, con informazioni di contatto.
 
 ## {{<bi bar-chart>}} Situazione soci
 
