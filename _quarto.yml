@@ -9,11 +9,10 @@ website:
   title: "Witness Journal APS"
   site-url: "https://soci.witnessjournal.com"
   description: "Dati sull'Associazione WJ"
-  margin-footer: |
-    - Copyright 2020
-    - APS Witness Journal
-    - CF: 97739350151 
-    - PEC: <witnessjournal@pec.it>
+  page-footer:
+    left: "Copyright 2020 APS Witness Journal"
+    center: "[witnessjournal.com](https://witnessjournal.com)"
+    right: "CF: 97739350151 | PEC: <witnessjournal@pec.it>"
   navbar:
     left:
       - text: "{{< bi people >}} Direttivo"

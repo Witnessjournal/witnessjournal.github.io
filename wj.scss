@@ -75,28 +75,16 @@ figcaption {
   font-style: italic;
 }
 
-.quarto-margin-footer {
-  position: absolute;
-  bottom: 0;
-  font-size: 75%;
-  font-style: italic;
-  color: #666;
+.nav-footer {
+  font-size: 0.66rem;
 }
 
-.quarto-margin-footer ul {
-  list-style-type: none;
-  list-style-position: inside;
-  text-indent: 0px;
-  margin-left: 0px;
-  padding-left: 0px;
-}
-
-.quarto-margin-footer a {
+.nav-footer a {
   color: #444;
   text-decoration: none;
 }
 
-.quarto-margin-footer a:hover {
+.nav-footer a:hover {
   color: $wj-red;
   text-decoration: underline;
 }
