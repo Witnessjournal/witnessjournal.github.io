@@ -129,13 +129,14 @@ div.abstract {
 
 .wj-clear {
   clear: both;
+  border-bottom: 1px solid #ddd;
 }
 .wj-details {
   font-size: 0.75rem;
   color: #666;
   clear: both;
   font-style: italic;
-  text-align: left;
+  
 }
 .wj-odd {
   text-align: right;
