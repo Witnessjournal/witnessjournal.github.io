@@ -24,7 +24,7 @@ Il Consiglio direttivo è composto da:
 
 ### Giulio Di Meo {.wj-odd}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Presidente | {{< bi envelope-fill >}} <giulio.dimeo@witnessjournal.com> | {{< bi instagram >}} [@giuliodimeo](https://www.instagram.com/giuliodimeo/)
+{{< bi person-fill >}} Presidente | {{< bi envelope-fill >}} [e-mail](mailto:giulio.dimeo@witnessjournal.com) | {{< bi instagram >}} [@giuliodimeo](https://www.instagram.com/giuliodimeo/)
 ![](https://witnessjournal.com/wp-content/uploads/2015/12/Giulio-Di-Meo-200x200.jpg)
 :::
 
@@ -36,7 +36,7 @@ Ruvianese DOCG (CE), sono un fotografo impegnato da più di dieci anni nell'ambi
 
 ### Paolo Bosetti {.wj-even}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Vicepresidente | {{< bi envelope-fill >}} <paolo.bosetti@witnessjournal.com> | {{< bi instagram >}}  [@p4010](https://www.instagram.com/p4010/)
+{{< bi person-fill >}} Vicepresidente | {{< bi envelope-fill >}} [e-mail](paolo.bosetti@witnessjournal.com) | {{< bi instagram >}}  [@p4010](https://www.instagram.com/p4010/)
 ![](images/PaoloBosetti.jpg)
 :::
 
@@ -47,7 +47,7 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 
 ### Lorenzo Perone {.wj-odd}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Tesoriere | {{< bi envelope-fill >}} <lorenzo.perone@witnessjournal.com> | {{< bi instagram >}}  [@lorenzo_perone](https://www.instagram.com/lorenzo_perone/)
+{{< bi person-fill >}} Tesoriere | {{< bi envelope-fill >}} [e-mail](mailto:lorenzo.perone@witnessjournal.com) | {{< bi instagram >}}  [@lorenzo_perone](https://www.instagram.com/lorenzo_perone/)
 ![](images/unknown.jpg)
 :::
 
@@ -57,7 +57,7 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 
 ### Ilaria De Marinis {.wj-even}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Segretaria | {{< bi envelope-fill >}} <ilaria.demarinis@witnessjournal.com> | {{< bi instagram >}}  [@sparkling77](https://www.instagram.com/sparkling77/)
+{{< bi person-fill >}} Segretaria | {{< bi envelope-fill >}} [e-mail](mailto:ilaria.demarinis@witnessjournal.com) | {{< bi instagram >}}  [@sparkling77](https://www.instagram.com/sparkling77/)
 ![](images/unkn_her.jpg)
 :::
 
@@ -69,7 +69,7 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 
 ### Lidia Addesa {.wj-odd}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Consigliere | {{< bi envelope-fill >}} <lidia.addesa@witnessjournal.com>
+{{< bi person-fill >}} Consigliere | {{< bi envelope-fill >}} [e-mail](mailto:lidia.addesa@witnessjournal.com)
 ![](images/unkn_her.jpg)
 :::
 
@@ -80,7 +80,7 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 
 ### Matilde Castagna {.wj-even}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Consigliere | {{< bi envelope-fill >}} <matilde.castagna@witnessjournal.com> | {{< bi instagram >}}  [@matiblu](https://www.instagram.com/matiblu/)
+{{< bi person-fill >}} Consigliere | {{< bi envelope-fill >}} [e-mail](mailto:matilde.castagna@witnessjournal.com) | {{< bi instagram >}}  [@matiblu](https://www.instagram.com/matiblu/)
 ![](images/unkn_her.jpg)
 :::
 
@@ -91,7 +91,7 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 
 ### Erika Cresti {.wj-odd}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Consigliere | {{< bi envelope-fill >}} <erika.cresti@witnessjournal.com>
+{{< bi person-fill >}} Consigliere | {{< bi envelope-fill >}} [e-mail](mailto:erika.cresti@witnessjournal.com)
 ![](https://witnessjournal.com/wp-content/uploads/2015/12/Erika-Cresti-200x200.jpg)
 :::
 
@@ -103,7 +103,7 @@ Pratese di nascita, ma fiorentina d'adozione. Appassionata di fotografia e curio
 
 ### Stefano Pontiggia {.wj-even}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Consigliere | {{< bi envelope-fill >}} <stefano.pontiggia@witnessjournal.com> | {{< bi instagram >}}  [@stpontiggia](https://www.instagram.com/stpontiggia/)
+{{< bi person-fill >}} Consigliere | {{< bi envelope-fill >}} [e-mail](mailto:stefano.pontiggia@witnessjournal.com) | {{< bi instagram >}}  [@stpontiggia](https://www.instagram.com/stpontiggia/)
 ![](images/unknown.jpg)
 :::
 
@@ -114,7 +114,7 @@ Pratese di nascita, ma fiorentina d'adozione. Appassionata di fotografia e curio
 
 ### Sarah Taranto {.wj-odd}
 ::: wj-details
-{{< bi person-fill >}} **Ruolo**: Consigliere | {{< bi envelope-fill >}} <sarah.taranto@witnessjournal.com> | {{< bi instagram >}}  [@sarah.taranto](https://www.instagram.com/sarah.taranto/)
+{{< bi person-fill >}} Consigliere | {{< bi envelope-fill >}} [e-mail](mailto:sarah.taranto@witnessjournal.com) | {{< bi instagram >}}  [@sarah.taranto](https://www.instagram.com/sarah.taranto/)
 ![](images/unkn_her.jpg)
 :::
 
