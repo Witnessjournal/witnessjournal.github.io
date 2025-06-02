@@ -48,8 +48,10 @@ Trentino di Trento. Sono docente universitario e fotografo per passione. Sono tr
 ### Lorenzo Perone {.wj-odd}
 ::: wj-details
 {{< bi person-fill >}} Tesoriere | {{< bi envelope-fill >}} [e-mail](mailto:lorenzo.perone@witnessjournal.com) | {{< bi instagram >}}  [@lorenzo_perone](https://www.instagram.com/lorenzo_perone/)
-![](images/unknown.jpg)
+![](images/LorenzoPerone.jpg)
 :::
+
+Sono appassionato di fotografia fin dall'adolescenza, per molti anni di ritratto e poi, folgorato sulla via di Damasco da Giulio Di Meo, mi sono appassionato ai reportage e alla fotografia sociale. Sono incuriosito ed attratto da ogni nuova tecnologia che intercetto e, qualche volta, riesco anche a farci qualcosa di utile.
 
 ::: wj-clear
 :::
