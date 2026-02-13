@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://soci.witnessjournal.com/direttivo.html</loc>
-    <lastmod>2026-02-06T22:49:53.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/territori/Trento.html</loc>
-    <lastmod>2026-02-06T22:49:53.094Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/storico.html</loc>
-    <lastmod>2026-02-06T22:49:53.094Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/situazione_soci.html</loc>
-    <lastmod>2026-02-06T22:49:53.094Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/index.html</loc>
-    <lastmod>2026-02-06T22:49:53.070Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/tools.html</loc>
-    <lastmod>2026-02-06T22:49:53.095Z</lastmod>
+    <loc>https://soci.witnessjournal.com/territori.html</loc>
+    <lastmod>2026-02-13T22:54:17.119Z</lastmod>
   </url>
   <url>
     <loc>https://soci.witnessjournal.com/territori/Bologna.html</loc>
-    <lastmod>2026-02-06T22:49:53.094Z</lastmod>
+    <lastmod>2026-02-13T22:54:17.119Z</lastmod>
   </url>
   <url>
-    <loc>https://soci.witnessjournal.com/territori.html</loc>
-    <lastmod>2026-02-06T22:49:53.094Z</lastmod>
+    <loc>https://soci.witnessjournal.com/situazione_soci.html</loc>
+    <lastmod>2026-02-13T22:54:17.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/direttivo.html</loc>
+    <lastmod>2026-02-13T22:54:17.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/index.html</loc>
+    <lastmod>2026-02-13T22:54:17.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/storico.html</loc>
+    <lastmod>2026-02-13T22:54:17.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/territori/Trento.html</loc>
+    <lastmod>2026-02-13T22:54:17.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/tools.html</loc>
+    <lastmod>2026-02-13T22:54:17.120Z</lastmod>
   </url>
 </urlset>
