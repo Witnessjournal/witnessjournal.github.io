@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://soci.witnessjournal.com/direttivo.html</loc>
-    <lastmod>2026-06-05T23:04:55.739Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/storico.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
-  </url>
-  <url>
-    <loc>https://soci.witnessjournal.com/territori/Trento.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
+    <loc>https://soci.witnessjournal.com/index.html</loc>
+    <lastmod>2026-06-12T23:06:08.442Z</lastmod>
   </url>
   <url>
     <loc>https://soci.witnessjournal.com/territori.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
+    <lastmod>2026-06-12T23:06:08.464Z</lastmod>
   </url>
   <url>
-    <loc>https://soci.witnessjournal.com/situazione_soci.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
+    <loc>https://soci.witnessjournal.com/direttivo.html</loc>
+    <lastmod>2026-06-12T23:06:08.429Z</lastmod>
   </url>
   <url>
     <loc>https://soci.witnessjournal.com/territori/Bologna.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
+    <lastmod>2026-06-12T23:06:08.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/territori/Trento.html</loc>
+    <lastmod>2026-06-12T23:06:08.465Z</lastmod>
   </url>
   <url>
     <loc>https://soci.witnessjournal.com/tools.html</loc>
-    <lastmod>2026-06-05T23:04:55.778Z</lastmod>
+    <lastmod>2026-06-12T23:06:08.465Z</lastmod>
   </url>
   <url>
-    <loc>https://soci.witnessjournal.com/index.html</loc>
-    <lastmod>2026-06-05T23:04:55.753Z</lastmod>
+    <loc>https://soci.witnessjournal.com/situazione_soci.html</loc>
+    <lastmod>2026-06-12T23:06:08.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://soci.witnessjournal.com/storico.html</loc>
+    <lastmod>2026-06-12T23:06:08.464Z</lastmod>
   </url>
 </urlset>
